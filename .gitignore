@@ -1,0 +1,15 @@
+/zipkin-service/target/*
+/zipkin-service/.classpath
+/zipkin-service/.project
+/sample-discovery-server/target/*
+/sample-discovery-server/.classpath
+/sample-discovery-server/.project
+/sample-config-server/target/*
+/sample-config-server/.classpath
+/sample-config-server/.project
+/sample-config-client/target/*
+/sample-config-client/.classpath
+/sample-config-client/.project
+/notification/target/*
+/notification/.classpath
+/notification/.project

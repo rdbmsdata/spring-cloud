@@ -1,0 +1,1 @@
+eureka:  instance:    leaseRenewalIntervalInSeconds: 1    leaseExpirationDurationInSeconds: 2  client:    serviceUrl:      defaultZone: ${vcap.services.eureka-service.credentials.uri:http://127.0.0.1:8761}/eureka/      healthcheck:        enabled: true      lease:        duration: 5        server:  port: 8083
